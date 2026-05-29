@@ -13,4 +13,4 @@
 **Enlaces:**
 * **Código:** [https://drive.google.com/file/d/1YzewGe_jER189N39oDCUD9FmQ1f65HKB/view?usp=sharing]
 * **Video:** [https://youtu.be/LbpwO0RO4Bo]
-* **Repositorio:** [Pega aquí el link general de este repositorio]
+* **Repositorio:** https://github.com/EcheverriNicolas/ia1-proyecto-final/tree/main
